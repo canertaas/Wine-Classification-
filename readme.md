@@ -10,19 +10,15 @@ This project includes the prediction and classification of the quality of the wi
   Feature Selection: Pearson Correlation
 
 ## Files
-Wine Classification.ipynb
-
-wine.csv
-
-wine.names.csv
+* Wine Classification.ipynb
+* wine.csv
+* wine.names.csv
 
 ## Libraries Used
+````python
 sklearn
-
 pandas
-
 seaborn
-
 matplotlib
-
 ploty
+````
